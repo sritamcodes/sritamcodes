@@ -67,7 +67,7 @@ Hi, I'm **Sritam Kumar Routray**.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sritamcodes/sritamcodes/blob/main/github-contribution-grid-snake.svg" />
 </p>
 
 ---
