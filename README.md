@@ -8,11 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Wrestling+Bugs+Into+Submission;Building+Clean+Responsive+Interfaces;Exploring+Generative+AI;Learning+Cloud+Foundations;Engineering+My+Future+in+AI" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sritamcodes&label=Profile+Views&color=00c6ff&style=for-the-badge" />
-</p>
-
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
 </p>
 
