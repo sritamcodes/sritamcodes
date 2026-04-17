@@ -53,26 +53,7 @@ Hi, I'm **Sritam Kumar Routray**.
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
 </p>
 
-## 📈 Development Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sritamcodes&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sritamcodes&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
 
 
 ## 🌟 Featured Projects
@@ -85,6 +66,18 @@ Conversion-focused, mobile-first design.
 
 ### 🔹 Task Manager
 CRUD application using LocalStorage.
+
+### 🔹Face Recognition Attendance System
+Developed an AI-based attendance system using computer vision to detect and recognize faces in real time, eliminating manual attendance processes.
+
+### 🔹Guessing Game
+Interactive Python-based number guessing game with logic handling.
+
+### 🔹 Expense Tracker (Web App)
+Developed a responsive expense tracking application using HTML, CSS, and JavaScript to manage daily expenses with dynamic UI updates and local storage.
+
+### 🔹 WhatsApp Automation (Python + Twilio)
+Automated WhatsApp messaging system with scheduling and secure API integration.  
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
 </p>
