@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Sritam%20Kumar%20Routray&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h2 align="center">🐛 Bug Wrestler | Frontend Developer | Future Gen AI Developer</h2>
+<h2 align="center">🐛 Bug Wrestler |  Future Gen AI Developer</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Wrestling+Bugs+Into+Submission;Building+Clean+Responsive+Interfaces;Exploring+Generative+AI;Learning+Cloud+Foundations;Engineering+My+Future+in+AI" />
