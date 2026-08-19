@@ -13,9 +13,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/thrinadh2164"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>&nbsp;
-  <a href="mailto:thrinadh2164.work@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;
-  <a href="https://thrinadh.dev"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>
+  <a href="https://linkedin.com/in/sritambca"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>&nbsp;
+  <a href="mailto:sritamk3606@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;
+  <a href="https://portfolio-website-lyart-tau-53.vercel.app/"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>
 </div>
 
 <br/>
@@ -27,14 +27,14 @@
 ## 「 About Me 」
 
 ```javascript
-const thrinadh = {
-    alias:    "thrinadh.dev",
-    role:     "Full-Stack & Generative AI Engineer",
-    degree:   "BE CSE (AI & ML) Graduate",
-    focus:    ["Generative AI", "RAG Pipelines", "Multi-Agent Systems"],
-    building: "Autonomous AI Workflows & Android Apps",
-    learning: ["LLMs", "Agentic Architectures", "MLOps"],
-    funFact:  "I automate everything — even my GitHub profile 🔥"
+const sritam = {
+  alias: "sritamcodes",
+  role: "Full-Stack & Generative AI Engineer",
+  degree: "BCA",
+  focus: ["Generative AI", "RAG Pipelines", "Multi-Agent Systems"],
+  building: "Autonomous AI Workflows & Android Apps",
+  learning: ["LLMs", "Agentic Architectures", "MLOps"],
+  funFact: "I automate everything — even my GitHub profile 🔥",
 };
 ```
 
@@ -58,19 +58,18 @@ const thrinadh = {
 
 <h3>⚡ Languages</h3>
 <br>
-
 <table align="center" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38"/><br/><sub><b>Python</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38"/><br/><sub><b>JavaScript</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="38"/><br/><sub><b>Java</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="38"/><br/><sub><b>C++</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="38"/><br/><sub><b>C</b></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="38"/><br/><sub><b>C++</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38"/><br/><sub><b>HTML5</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38"/><br/><sub><b>CSS3</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38"/><br/><sub><b>SQL</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="38"/><br/><sub><b>Kotlin</b></sub></td>
   </tr>
 </table>
 
@@ -78,22 +77,23 @@ const thrinadh = {
 
 <td width="420" valign="top" align="center">
 
-<h3>🔥 Frameworks &amp; Tools</h3>
+<h3>🔥 Tools &amp; Technologies</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="10">
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38"/><br/><sub><b>React</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38"/><br/><sub><b>Node.js</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="38"/><br/><sub><b>Android</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38"/><br/><sub><b>Git</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38"/><br/><sub><b>GitHub</b></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38"/><br/><sub><b>Firebase</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="38"/><br/><sub><b>TensorFlow</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="38"/><br/><sub><b>PyTorch</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="38"/><br/><sub><b>GCP</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="38"/><br/><sub><b>Google Cloud</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38"/><br/><sub><b>Pandas</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="38"/><br/><sub><b>Jupyter</b></sub></td>
   </tr>
+</table>
 </table>
 
 </td>
