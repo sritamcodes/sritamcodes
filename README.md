@@ -40,8 +40,8 @@ const sritam = {
 
 - 🔥 Currently building **AI-Powered Applications**
 - 🤖 Exploring **LLMs, RAG Pipelines & Agentic AI**
-- 📱 Building **Android & Full-Stack** projects
-- ⚡ Ask me about **Full-Stack, Android, AI/ML**
+- 📱 Building **AI/ML** projects
+- ⚡ Ask me about **FrontEnd, UI/UX, AI/ML**
 
 <br clear="both"/>
 
@@ -109,9 +109,9 @@ const sritam = {
 
 <table width="100%" border="0" cellspacing="12" cellpadding="0">
 <tr>
-  <td width="33.3%" valign="top" align="center"><a href="https://github.com/thrinadh2164?tab=repositories"><img src="./svg/panel_projects.svg" width="100%" alt="Projects"/></a></td>
-  <td width="33.3%" valign="top" align="center"><a href="https://thrinadh2164.github.io/My_Awards/"><img src="./svg/panel_awards.svg" width="100%" alt="Awards"/></a></td>
-  <td width="33.3%" valign="top" align="center"><a href="https://thrinadh2164.github.io/My_Certifications/"><img src="./svg/panel_certs.svg" width="100%" alt="Certifications"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://github.com/sritamcodes?tab=repositories"><img src="./svg/panel_projects.svg" width="100%" alt="Projects"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://github.com/sritamcodes?tab=achievements"><img src="./svg/panel_awards.svg" width="100%" alt="Awards"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://sritambca.github.io/My_Certifications/"><img src="./svg/panel_certs.svg" width="100%" alt="Certifications"/></a></td>
 </tr>
 </table>
 
@@ -122,13 +122,13 @@ const sritam = {
 ## 「 GitHub Stats 」
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thrinadh2164&theme=radical&hide_border=true&background=00000000&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&sideLabels=FF9F45&dates=FF9F45" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sritambca&theme=radical&hide_border=true&background=00000000&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&sideLabels=FF9F45&dates=FF9F45" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrinadh2164&bg_color=00000000&color=FF9F45&line=FF6B35&point=FFD700&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sritamcodes&bg_color=00000000&color=FF9F45&line=FF6B35&point=FFD700&area=true&hide_border=true" width="90%" />
 </div>
 
 <div align="center">
@@ -142,9 +142,9 @@ const sritam = {
 <br/>
 
 <div align="center">
-  <a href="https://thrinadh.dev"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>&nbsp;&nbsp;
-  <a href="mailto:thrinadh2164.work@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/thrinadh2164"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>
+  <a href="https://portfolio-website-lyart-tau-53.vercel.app/"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:sritamk3606@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sritambca"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>
 </div>
 
 <div align="center">
