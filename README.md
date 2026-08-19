@@ -1,110 +1,152 @@
+<div align="center">
+  <img src="./svg/header.svg" width="100%" alt="THRINADH.DEV — System Portal" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Sritam%20Kumar%20Routray&fontSize=42&fontColor=ffffff&animation=twinkling" />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=620&height=60&lines=%5B%E2%96%B6%5D+System+Boot+Sequence+Initiated...;%5B%E2%96%B6%5D+Loading+AI+%26+ML+Core+Modules...;%5B%E2%96%B6%5D+Deploying+Agentic+AI+Workflows...;%5B%E2%96%B6%5D+Compiling+Full-Stack+Architecture...;%5B%E2%96%B6%5D+Neural+Link+Established.+Welcome." alt="Typing SVG" /></a>
+</div>
 
-<h2 align="center">🐛 Bug Wrestler |  Future Gen AI Developer</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/wpIqberrjjSKDmaCgA/giphy.gif" width="180" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Wrestling+Bugs+Into+Submission;Building+Clean+Responsive+Interfaces;Exploring+Generative+AI;Learning+Cloud+Foundations;Engineering+My+Future+in+AI" />
-</p>
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
+<br/>
 
+<div align="center">
+  <a href="https://linkedin.com/in/thrinadh2164"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>&nbsp;
+  <a href="mailto:thrinadh2164.work@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;
+  <a href="https://thrinadh.dev"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>
+</div>
 
-## 👨‍💻 About Me
+<br/>
 
-Hi, I'm **Sritam Kumar Routray**.
+<div align="center">
+  <img src="./svg/divider_fire.svg" width="100%">
+</div>
 
-- 🐛 Debugging is my training ground — I enjoy solving real problems.
-- 🌐 Currently mastering **Frontend Development (HTML, CSS, JavaScript)**.
-- 🎨 Focused on clean UI and scalable structure.
-- 🤖 Exploring **Generative AI systems**.
-- ☁ Learning **Cloud fundamentals** for AI deployment.
-- 🎯 Long-term mission: Become a **Production-Level Generative AI Engineer**.
+## 「 About Me 」
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
+```javascript
+const thrinadh = {
+    alias:    "thrinadh.dev",
+    role:     "Full-Stack & Generative AI Engineer",
+    degree:   "BE CSE (AI & ML) Graduate",
+    focus:    ["Generative AI", "RAG Pipelines", "Multi-Agent Systems"],
+    building: "Autonomous AI Workflows & Android Apps",
+    learning: ["LLMs", "Agentic Architectures", "MLOps"],
+    funFact:  "I automate everything — even my GitHub profile 🔥"
+};
+```
 
+- 🔥 Currently building **AI-Powered Applications**
+- 🤖 Exploring **LLMs, RAG Pipelines & Agentic AI**
+- 📱 Building **Android & Full-Stack** projects
+- ⚡ Ask me about **Full-Stack, Android, AI/ML**
 
-## 🛠 Current Tech Stack
+<br clear="both"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode,linux" />
-</p>
+<div align="center">
+  <img src="./svg/divider_circuit.svg" width="100%">
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
+## 「 Technologies 」
 
+<table border="0" cellspacing="12" cellpadding="0" align="center">
+<tr>
 
-## 🚀 Learning Path Toward Generative AI Engineering
+<td width="420" valign="top" align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,docker,aws" />
-</p>
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
+<h3>⚡ Languages</h3>
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask" />
-</p>
+<table align="center" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38"/><br/><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="38"/><br/><sub><b>Java</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="38"/><br/><sub><b>C++</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38"/><br/><sub><b>CSS3</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38"/><br/><sub><b>SQL</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="38"/><br/><sub><b>Kotlin</b></sub></td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
+</td>
 
+<td width="420" valign="top" align="center">
 
+<h3>🔥 Frameworks &amp; Tools</h3>
+<br>
 
+<table align="center" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38"/><br/><sub><b>React</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="38"/><br/><sub><b>Android</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="38"/><br/><sub><b>Firebase</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="38"/><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="38"/><br/><sub><b>PyTorch</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="38"/><br/><sub><b>GCP</b></sub></td>
+  </tr>
+</table>
 
-## 🌟 Featured Projects
+</td>
 
-### 🔹 Calculator App
-Responsive calculator built with structured JavaScript logic.
+</tr>
+</table>
 
-### 🔹 Startup Landing Page
-Conversion-focused, mobile-first design.
+<div align="center">
+  <img src="./svg/divider_fire.svg" width="100%">
+</div>
 
-### 🔹 Task Manager
-CRUD application using LocalStorage.
+## 「 Portfolio Showcase 」
 
-### 🔹Face Recognition Attendance System
-Developed an AI-based attendance system using computer vision to detect and recognize faces in real time, eliminating manual attendance processes.
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
+<tr>
+  <td width="33.3%" valign="top" align="center"><a href="https://github.com/thrinadh2164?tab=repositories"><img src="./svg/panel_projects.svg" width="100%" alt="Projects"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://thrinadh2164.github.io/My_Awards/"><img src="./svg/panel_awards.svg" width="100%" alt="Awards"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://thrinadh2164.github.io/My_Certifications/"><img src="./svg/panel_certs.svg" width="100%" alt="Certifications"/></a></td>
+</tr>
+</table>
 
-### 🔹Guessing Game
-Interactive Python-based number guessing game with logic handling.
+<div align="center">
+  <img src="./svg/divider_circuit.svg" width="100%">
+</div>
 
-### 🔹 Expense Tracker (Web App)
-Developed a responsive expense tracking application using HTML, CSS, and JavaScript to manage daily expenses with dynamic UI updates and local storage.
+## 「 GitHub Stats 」
 
-### 🔹 WhatsApp Automation (Python + Twilio)
-Automated WhatsApp messaging system with scheduling and secure API integration.  
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thrinadh2164&theme=radical&hide_border=true&background=00000000&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&sideLabels=FF9F45&dates=FF9F45" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thrinadh2164&bg_color=00000000&color=FF9F45&line=FF6B35&point=FFD700&area=true&hide_border=true" width="90%" />
+</div>
 
-## 💡 Core Traits
+<div align="center">
+  <img src="./svg/divider_fire.svg" width="100%">
+</div>
 
-✔ Problem-solving mindset  
-✔ Consistent learner  
-✔ UI-focused thinking  
-✔ Systems curiosity  
-✔ Long-term AI vision  
+<div align="center">
+  <a href="./docs/COLLAB.md"><img src="./svg/collab_terminal.svg" width="100%" alt="Collaboration Terminal"/></a>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF41&center=true&vCenter=true&width=1000&lines=────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────" />
-</p>
+<br/>
 
+<div align="center">
+  <a href="https://thrinadh.dev"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>&nbsp;&nbsp;
+  <a href="mailto:thrinadh2164.work@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/thrinadh2164"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>
+</div>
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/sritamcodes">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sritam-kumar-routray/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:203a43&height=120&section=footer"/>
-</p>
+<div align="center">
+  <img src="./svg/footer.svg" width="100%" />
+</div>
