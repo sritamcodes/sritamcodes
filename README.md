@@ -29,7 +29,7 @@
 ```javascript
 const sritam = {
   alias: "sritamcodes",
-  role: "Full-Stack & Generative AI Engineer",
+  role: "Data Analyst and AI/ML Enthusiast",
   degree: "BCA",
   focus: ["Generative AI", "RAG Pipelines", "Multi-Agent Systems"],
   building: "Autonomous AI Workflows & Android Apps",
