@@ -32,7 +32,7 @@ const sritam = {
   role: "Data Analyst and AI/ML Enthusiast",
   degree: "BCA",
   focus: ["Generative AI", "RAG Pipelines", "Multi-Agent Systems"],
-  building: "Autonomous AI Workflows & Android Apps",
+  building: "Autonomous AI Workflows",
   learning: ["LLMs", "Agentic Architectures", "MLOps"],
   funFact: "I automate everything — even my GitHub profile 🔥",
 };
